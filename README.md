@@ -6,6 +6,7 @@ My solutions for leetcode problems.
 - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Longest%20Common%20Prefix%20-%20Easy.cpp)
 - [Two Sum](https://leetcode.com/problems/two-sum): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Two%20Sum%20-%20Easy.cpp)
 - [Palindrome number](https://leetcode.com/problems/palindrome-number): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Palindrom%20number.cpp%20-%20Easy)
+- [Buddy strings](https://leetcode.com/problems/buddy-strings/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Buddy%20strings%20-%20Easy.cpp)
 ## Medium
 Nothing atm :(
 ## Hard

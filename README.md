@@ -8,6 +8,7 @@ My solutions for leetcode problems.
 - [Palindrome number](https://leetcode.com/problems/palindrome-number): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Palindrom%20number.cpp%20-%20Easy)
 - [Buddy strings](https://leetcode.com/problems/buddy-strings/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Buddy%20strings%20-%20Easy.cpp)
 - [Find words that can be formed by characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Find%20words%20that%20can%20be%20formed%20by%20characters%20-%20Easy.cpp)
+- [Valid parentheses](https://leetcode.com/problems/valid-parentheses/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Valid%20parentheses%20-%20Easy.cpp)
 ## Medium
 Nothing atm :(
 ## Hard

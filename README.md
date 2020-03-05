@@ -14,6 +14,7 @@ My solutions for leetcode problems.
 - [Sum of root to leaf binary numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Sum%20of%20root%20to%20leaf%20binary%20numbers%20-%20Easy.cpp)
 - [Convert a binary number to an integer in a linked list](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Convert%20a%20binary%20number%20to%20an%20integer%20in%20a%20linked%20list%20-%20Easy.cpp)
 - [Middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Middle%20of%20the%20linked%20list%20-%20Easy.cpp)
+- [Reverse linked list](https://leetcode.com/problems/reverse-linked-list/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Reverse%20linked%20list%20-%20Easy.cpp)
 ## Medium
 Coming soon :D
 ## Hard

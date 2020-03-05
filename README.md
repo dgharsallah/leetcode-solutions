@@ -11,6 +11,7 @@ My solutions for leetcode problems.
 - [Valid parentheses](https://leetcode.com/problems/valid-parentheses/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Valid%20parentheses%20-%20Easy.cpp)
 - [Increasing order search tree](https://leetcode.com/problems/increasing-order-search-tree/) : Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Increasing%20order%20search%20tree%20-%20Easy.cpp)
 - [Single number](https://leetcode.com/problems/single-number/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Single%20number%20-%20Easy.cpp)
+- [Sum of root to leaf binary numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Sum%20of%20root%20to%20leaf%20binary%20numbers%20-%20Easy.cpp)
 ## Medium
 Coming soon :D
 ## Hard

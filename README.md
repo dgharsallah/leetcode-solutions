@@ -15,7 +15,7 @@ My solutions for leetcode problems.
 - [Convert a binary number to an integer in a linked list](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Convert%20a%20binary%20number%20to%20an%20integer%20in%20a%20linked%20list%20-%20Easy.cpp)
 - [Middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Middle%20of%20the%20linked%20list%20-%20Easy.cpp)
 - [Reverse linked list](https://leetcode.com/problems/reverse-linked-list/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Reverse%20linked%20list%20-%20Easy.cpp)
-- [Delete a node in a linked list](https://leetcode.com/problems/delete-node-in-a-linked-list/): Solutino [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Delete%20a%20node%20in%20a%20linked%20list%20-%20Easy.cpp)
+- [Delete a node in a linked list](https://leetcode.com/problems/delete-node-in-a-linked-list/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Delete%20a%20node%20in%20a%20linked%20list%20-%20Easy.cpp)
 ## Medium
 Coming soon :D
 ## Hard

@@ -20,6 +20,6 @@ My solutions for leetcode problems.
 - [Leaf similar trees](https://leetcode.com/problems/leaf-similar-trees/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Leaf%20similar%20trees%20-%20Easy.cpp)
 - [Find the town judge](https://leetcode.com/problems/find-the-town-judge/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Find%20the%20town%20judge%20-%20Easy.cpp)
 ## Medium
-Coming soon :D
+- [K closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/K%20closest%20points%20to%20origin%20-%20Medium.cpp)
 ## Hard
 Empty atm :/

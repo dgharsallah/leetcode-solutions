@@ -17,6 +17,7 @@ My solutions for leetcode problems.
 - [Reverse linked list](https://leetcode.com/problems/reverse-linked-list/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Reverse%20linked%20list%20-%20Easy.cpp)
 - [Delete a node in a linked list](https://leetcode.com/problems/delete-node-in-a-linked-list/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Delete%20a%20node%20in%20a%20linked%20list%20-%20Easy.cpp)
 - [Occurences after bigram](https://leetcode.com/problems/occurrences-after-bigram/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Occurences%20after%20bigram%20-%20Easy.cpp)
+- [Leaf similar trees](https://leetcode.com/problems/leaf-similar-trees/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Leaf%20similar%20trees%20-%20Easy.cpp)
 ## Medium
 Coming soon :D
 ## Hard

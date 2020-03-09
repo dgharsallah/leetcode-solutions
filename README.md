@@ -21,6 +21,6 @@ My solutions for leetcode problems.
 - [Find the town judge](https://leetcode.com/problems/find-the-town-judge/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Find%20the%20town%20judge%20-%20Easy.cpp)
 ## Medium
 - [K closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/K%20closest%20points%20to%20origin%20-%20Medium.cpp)
-- [Group the people given the group size they belong to](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to)(https://github.com/dgharsallah/leetcodesolutions/blob/master/Group%20the%20people%20given%20the%20group%20size%20they%20belong%20to): Solution [here]
+- [Group the people given the group size they belong to](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to): Solution [here](https://github.com/dgharsallah/leetcodesolutions/blob/master/Group%20the%20people%20given%20the%20group%20size%20they%20belong%20to)
 ## Hard
 Empty atm :/

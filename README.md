@@ -19,10 +19,10 @@ My solutions for leetcode problems.
 - [Occurences after bigram](https://leetcode.com/problems/occurrences-after-bigram/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Occurences%20after%20bigram%20-%20Easy.cpp)
 - [Leaf similar trees](https://leetcode.com/problems/leaf-similar-trees/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Leaf%20similar%20trees%20-%20Easy.cpp)
 - [Find the town judge](https://leetcode.com/problems/find-the-town-judge/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Find%20the%20town%20judge%20-%20Easy.cpp)
+- [Merge sorted array](https://leetcode.com/problems/merge-sorted-array/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Merge%20sorted%20array%20-%20Easy.cpp)
 ## Medium
 - [K closest points to origin](https://leetcode.com/problems/k-closest-points-to-origin): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/K%20closest%20points%20to%20origin%20-%20Medium.cpp)
 - [Group the people given the group size they belong to](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to): Solution [here](https://github.com/dgharsallah/leetcodesolutions/blob/master/Group%20the%20people%20given%20the%20group%20size%20they%20belong%20to)
 - [Binary tree inorder traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Inorder%20traversal%20-%20Medium.cpp)
-- [Merge sorted array](https://leetcode.com/problems/merge-sorted-array/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Merge%20sorted%20array%20-%20Easy.cpp)
 ## Hard
 Empty atm :/

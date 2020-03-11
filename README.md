@@ -26,5 +26,6 @@ My solutions for leetcode problems.
 - [Group the people given the group size they belong to](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to): Solution [here](https://github.com/dgharsallah/leetcodesolutions/blob/master/Group%20the%20people%20given%20the%20group%20size%20they%20belong%20to)
 - [Binary tree inorder traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Inorder%20traversal%20-%20Medium.cpp)
 - [Remove covered intervals](https://leetcode.com/problems/remove-covered-intervals/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Remove%20covered%20intervals%20-%20Medium.cpp)
+- [Minimum falling path sum](https://leetcode.com/problems/minimum-falling-path-sum/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Minimum%20falling%20path%20sum%20-%20Easy.cpp)
 ## Hard
 Empty atm :/

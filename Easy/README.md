@@ -19,4 +19,4 @@
 - [Find the town judge](https://leetcode.com/problems/find-the-town-judge/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/Find%20the%20town%20judge%20-%20Easy.cpp)
 - [Merge sorted array](https://leetcode.com/problems/merge-sorted-array/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/Merge%20sorted%20array%20-%20Easy.cpp)
 - [Maximum depth of N-ary tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/Maximum%20Depth%20of%20N-ary%20Tree%20-%20Easy.cpp)
-- [Binary tree level order traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/): Solution [here](
+- [Binary tree level order traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/Binary%20level%20tree%20level%20order%20traversal%20II%20-%20Easy.cpp)

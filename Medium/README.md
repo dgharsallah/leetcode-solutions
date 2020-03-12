@@ -8,3 +8,4 @@
 - [Uncrossed lines](https://leetcode.com/problems/uncrossed-lines/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Uncrossed%20lines%20-%20Medium.cpp)
 - [Validate binary tree nodes](https://leetcode.com/problems/validate-binary-tree-nodes/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Validate%20binary%20tree%20nodes%20-%20Medium.cpp)
 - [Subsets](https://leetcode.com/problems/subsets/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Subsets%20-%20Medium.cpp)
+- [Combination sum](https://leetcode.com/problems/combination-sum/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Combination%20sum%20-%20Medium.cpp)

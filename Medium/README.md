@@ -11,3 +11,4 @@
 - [Combination sum](https://leetcode.com/problems/combination-sum/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Combination%20sum%20-%20Medium.cpp)
 - [Binary tree level order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Binary%20tree%20level%20order%20traversal%20-%20Medium.cpp)
 - [Permutations](https://leetcode.com/problems/permutations/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Permutations%20-%20Medium.cpp)
+- [Generate parentheses](https://leetcode.com/problems/generate-parentheses/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Generate%20parentheses%20-%20Medium.cpp)

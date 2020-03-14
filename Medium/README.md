@@ -12,3 +12,4 @@
 - [Binary tree level order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Binary%20tree%20level%20order%20traversal%20-%20Medium.cpp)
 - [Permutations](https://leetcode.com/problems/permutations/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Permutations%20-%20Medium.cpp)
 - [Generate parentheses](https://leetcode.com/problems/generate-parentheses/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Generate%20parentheses%20-%20Medium.cpp)
+- [Top k frequent elements](https://leetcode.com/problems/top-k-frequent-elements/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Top%20k%20frequent%20elements%20-%20Medium.cpp)

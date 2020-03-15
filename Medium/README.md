@@ -13,3 +13,4 @@
 - [Permutations](https://leetcode.com/problems/permutations/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Permutations%20-%20Medium.cpp)
 - [Generate parentheses](https://leetcode.com/problems/generate-parentheses/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Generate%20parentheses%20-%20Medium.cpp)
 - [Top k frequent elements](https://leetcode.com/problems/top-k-frequent-elements/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Top%20k%20frequent%20elements%20-%20Medium.cpp)
+- [Longest palindromic substring](https://leetcode.com/problems/longest-palindromic-substring/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Longest%20palindromic%20substring%20-%20Medium.cpp)

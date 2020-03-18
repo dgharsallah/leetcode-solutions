@@ -18,3 +18,4 @@
 - [Queue reconstruction by height](https://leetcode.com/problems/queue-reconstruction-by-height/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Queue%20reconstruction%20by%20height%20-%20Medium.cpp)
 - [Encode and decore tinyUrl](https://leetcode.com/problems/encode-and-decode-tinyurl/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Encode%20and%20decode%20tinyUrl%20-%20Medium.cpp)
 - [Kth largest element](https://leetcode.com/problems/kth-largest-element-in-an-array/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Kth%20largest%20element%20-%20Medium.cpp)
+- [Sort characters by frequency](https://leetcode.com/problems/sort-characters-by-frequency/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Sort%20characters%20by%20frequency%20-%20Medium.cpp)

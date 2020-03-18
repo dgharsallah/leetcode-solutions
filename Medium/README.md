@@ -17,3 +17,4 @@
 - [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Longest%20substring%20without%20repeating%20characters%20-%20Medium.cpp)
 - [Queue reconstruction by height](https://leetcode.com/problems/queue-reconstruction-by-height/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Queue%20reconstruction%20by%20height%20-%20Medium.cpp)
 - [Encode and decore tinyUrl](https://leetcode.com/problems/encode-and-decode-tinyurl/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Encode%20and%20decode%20tinyUrl%20-%20Medium.cpp)
+- [Kth largest element](https://leetcode.com/problems/kth-largest-element-in-an-array/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Kth%20largest%20element%20-%20Medium.cpp)

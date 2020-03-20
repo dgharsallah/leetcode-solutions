@@ -23,3 +23,4 @@
 - [Maximum level of binary tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/Maximum%20depth%20of%20binary%20tree%20-%20Easy.cpp)
 - [Lowest common ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/Lowest%20common%20ancestor%20-%20Easy.cpp)
 - [Convert sorted array to binary search tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/Convert%20sorted%20array%20to%20binary%20search%20tree%20-%20Medium.cpp)
+- [Merge two binary trees](https://leetcode.com/problems/merge-two-binary-trees/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/Merge%20two%20binary%20trees%20-%20Easy.cpp)

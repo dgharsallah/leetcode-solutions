@@ -20,3 +20,4 @@
 - [Kth largest element](https://leetcode.com/problems/kth-largest-element-in-an-array/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Kth%20largest%20element%20-%20Medium.cpp)
 - [Sort characters by frequency](https://leetcode.com/problems/sort-characters-by-frequency/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Sort%20characters%20by%20frequency%20-%20Medium.cpp)
 - [Combinations](https://leetcode.com/problems/combinations/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Combinations%20-%20Medium.cpp)
+- [Daily temperatures](https://leetcode.com/problems/daily-temperatures/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Daily%20temperatures%20-%20Medium.cpp)

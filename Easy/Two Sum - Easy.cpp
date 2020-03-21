@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // brute force solution O(n^2)
     vector<int> twoSum(vector<int>& nums, int target) {
         vector<int> v;
         for (int i = 0; i < nums.size(); ++i) {
@@ -14,6 +15,21 @@ public:
                 }
             }
             if (!v.empty()) {
+                break;
+            }
+        }
+        return v;
+    }
+    
+    // optimized solution using HashTable O(n)
+    vector<int> twoSum(vector<int>& nums, int target) {
+        vector<int> v;
+        unordered_map<int, int> m;
+        for (int i = 0; i < nums.size(); ++i) {
+            if (m.find(nums[i]) == m.end()) {
+                m[target - nums[i]] = i;
+            } else {
+                v = {i, m[nums[i]]};
                 break;
             }
         }

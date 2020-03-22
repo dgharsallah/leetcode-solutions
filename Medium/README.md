@@ -22,3 +22,4 @@
 - [Combinations](https://leetcode.com/problems/combinations/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Combinations%20-%20Medium.cpp)
 - [Daily temperatures](https://leetcode.com/problems/daily-temperatures/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Daily%20temperatures%20-%20Medium.cpp)
 - [Next greater node in linked list](https://leetcode.com/problems/next-greater-node-in-linked-list/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Next%20greater%20node%20in%20linked%20list%20-%20Medium.cpp)
+- [Design linked list](https://leetcode.com/problems/design-linked-list/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Design%20linked%20list%20-%20Medium.cpp)

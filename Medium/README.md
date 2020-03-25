@@ -27,3 +27,4 @@
 - [Valid parentheses string](https://leetcode.com/problems/valid-parenthesis-string/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Valid%20parentheses%20string%20-%20Medium.cpp)
 - [Unique paths](https://leetcode.com/problems/unique-paths/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Unique%20paths%20-%20Medium.cpp)
 - [Unique paths II](https://leetcode.com/problems/unique-paths-ii/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Unique%20paths%20II%20-%20Medium.cpp)
+- [Letter combinations of a phone number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Letter%20combinations%20of%20phone%20number%20-%20Medium.cpp)

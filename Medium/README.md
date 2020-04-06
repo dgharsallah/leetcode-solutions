@@ -33,3 +33,4 @@
 - [Find duplicate number](https://leetcode.com/problems/find-the-duplicate-number/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Find%20duplicate%20number%20-%20Medium.py)
 - [Contiguous array](https://leetcode.com/problems/contiguous-array/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Contiguous%20array%20-%20Medium.cpp)
 - [Linked list cycle](https://leetcode.com/problems/linked-list-cycle/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Linked%20list%20cycle%20-%20Medium.cpp)
+- [Range sum query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Range%20Sum%20Query%20-%20Medium.py)

@@ -1,0 +1,7 @@
+- Day 1: [Single number](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%201%20-%20Single%20number.py)
+- Day 2: [Happy number](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%202%20-%20Happy%20number.py)
+- Day 4: [Move zeros](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%204%20-%20Moves%20zeros.py)
+- Day 5: [Best time to buy and sell a stock II](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%205%20-%20best%20time%20to%20buy%20and%20sell%20stock%20II.py)
+- Day 6: [Group anagrams](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%206%20-%20Group%20anagrams.py)
+- Day 7: [Count elements](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%207%20-%20Count%20elements.py)
+- Day 8: [Middle node](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%208%20-%20Middle%20node.py)

@@ -27,4 +27,4 @@
 - [Best time to buy and sell a stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/Best%20time%20to%20buy%20and%20sell%20a%20stock%20-%20Easy.cpp)
 - [Missing number](https://leetcode.com/problems/missing-number/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/Missing%20number%20-%20Medium.cpp)
 - [Set mismatch](https://leetcode.com/problems/set-mismatch/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/Set%20mismatch%20-%20Easy.py)
-- [Invert binary tree](https://leetcode.com/problems/invert-binary-tree/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/Invert%20binary%20tree%20-%20Easy.py
+- [Invert binary tree](https://leetcode.com/problems/invert-binary-tree/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/Invert%20binary%20tree%20-%20Easy.py)

@@ -26,3 +26,4 @@
 - [Merge two binary trees](https://leetcode.com/problems/merge-two-binary-trees/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/Merge%20two%20binary%20trees%20-%20Easy.cpp)
 - [Best time to buy and sell a stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/Best%20time%20to%20buy%20and%20sell%20a%20stock%20-%20Easy.cpp)
 - [Missing number](https://leetcode.com/problems/missing-number/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/Missing%20number%20-%20Medium.cpp)
+- [Set mismatch](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/Set%20mismatch%20-%20Easy.py): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/Set%20mismatch%20-%20Easy.py)

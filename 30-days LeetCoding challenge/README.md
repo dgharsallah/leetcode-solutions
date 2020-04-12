@@ -6,3 +6,4 @@
 - Day 7: [Count elements](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%207%20-%20Count%20elements.py)
 - Day 8: [Middle node](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%208%20-%20Middle%20node.py)
 - Day 9: [Backspace string compare](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%209%20-%20Backspace%20string%20compare.py)
+- Day 11: [Diameter of binary tree](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2011%20-%20Diameter%20of%20binary%20tree.py)

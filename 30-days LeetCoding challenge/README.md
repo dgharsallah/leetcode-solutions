@@ -8,3 +8,4 @@
 - Day 9: [Backspace string compare](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%209%20-%20Backspace%20string%20compare.py)
 - Day 11: [Diameter of binary tree](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2011%20-%20Diameter%20of%20binary%20tree.py)
 - Day 12: [Last stone weight](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2012%20-%20Last%20stone%20weight.py)
+- Day 13: [Contiguous subarray](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2013%20-%20Contiguous%20subarray.py)

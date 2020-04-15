@@ -7,6 +7,7 @@
 - Day 7: [Count elements](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%207%20-%20Count%20elements.py)
 - Day 8: [Middle node](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%208%20-%20Middle%20node.py)
 - Day 9: [Backspace string compare](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%209%20-%20Backspace%20string%20compare.py)
+- Day 10: [Min stack](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2010%20-%20Min%20stack.py)
 - Day 11: [Diameter of binary tree](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2011%20-%20Diameter%20of%20binary%20tree.py)
 - Day 12: [Last stone weight](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2012%20-%20Last%20stone%20weight.py)
 - Day 13: [Contiguous subarray](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2013%20-%20Contiguous%20subarray.py)

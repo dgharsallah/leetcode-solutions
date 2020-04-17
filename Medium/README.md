@@ -36,3 +36,4 @@
 - [Range sum query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Range%20Sum%20Query%20-%20Medium.py)
 - [Palindromic substrings](https://leetcode.com/problems/palindromic-substrings/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Palindromic%20substrings%20-%20Medium.py)
 - [Product except self](https://leetcode.com/problems/product-of-array-except-self/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Product%20except%20self%20-%20Medium.py)
+- [Subarray sum equal k](https://leetcode.com/problems/subarray-sum-equals-k/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Subarray%20sum%20equal%20k%20-%20Medium.py)

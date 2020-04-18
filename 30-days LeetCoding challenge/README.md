@@ -15,3 +15,4 @@
 - Day 15: [Product except self](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2015%20-%20Product%20except%20self.py)
 - Day 16: [Valid parentheses string](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2016%20-%20Valid%20parentheses%20string.py)
 - Day 17: [Number of islands](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2017%20-%20Number%20of%20islands.py)
+- Day 18: [Minimum path sum](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2018%20-%20Minimum%20path%20sum.py)

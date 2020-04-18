@@ -37,5 +37,5 @@
 - [Palindromic substrings](https://leetcode.com/problems/palindromic-substrings/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Palindromic%20substrings%20-%20Medium.py)
 - [Product except self](https://leetcode.com/problems/product-of-array-except-self/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Product%20except%20self%20-%20Medium.py)
 - [Subarray sum equal k](https://leetcode.com/problems/subarray-sum-equals-k/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Subarray%20sum%20equal%20k%20-%20Medium.py)
-- [Number of islands](https://leetcode.com/problems/number-of-islands/): Solution [here]()
-- [Minimum path sum](https://leetcode.com/problems/minimum-path-sum/): Solution [here]()
+- [Number of islands](https://leetcode.com/problems/number-of-islands/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Number%20of%20islands%20-%20Medium.py)
+- [Minimum path sum](https://leetcode.com/problems/minimum-path-sum/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Minimum%20path%20sum%20-%20Medium.py)

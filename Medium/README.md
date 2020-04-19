@@ -39,3 +39,4 @@
 - [Subarray sum equal k](https://leetcode.com/problems/subarray-sum-equals-k/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Subarray%20sum%20equal%20k%20-%20Medium.py)
 - [Number of islands](https://leetcode.com/problems/number-of-islands/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Number%20of%20islands%20-%20Medium.py)
 - [Minimum path sum](https://leetcode.com/problems/minimum-path-sum/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Minimum%20path%20sum%20-%20Medium.py)
+- [Count complete tree nodes](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Count%20complete%20tree%20nodes%20-%20Medium.py): Solution [here](https://leetcode.com/problems/count-complete-tree-nodes/)

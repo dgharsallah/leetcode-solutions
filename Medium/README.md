@@ -41,3 +41,4 @@
 - [Minimum path sum](https://leetcode.com/problems/minimum-path-sum/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Minimum%20path%20sum%20-%20Medium.py)
 - [Count complete tree nodes](https://leetcode.com/problems/count-complete-tree-nodes/)
 : Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Count%20complete%20tree%20nodes%20-%20Medium.py)
+- [3Sum](https://leetcode.com/problems/3sum/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/3Sum%20-%20Medium.py)

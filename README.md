@@ -1,8 +1,6 @@
 # leetcode-solutions
 My solutions for leetcode problems.
-## Easy
-Solutions under [Easy/](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/)
-## Medium
-Solutions under [Medium/](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/)
-## Hard
-Solutions under [Hard/](https://github.com/dgharsallah/leetcode-solutions/blob/master/Hard/)
+## [Easy](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/)
+## [Medium](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/)
+## [Hard](https://github.com/dgharsallah/leetcode-solutions/blob/master/Hard/)
+### [30-days LeetCoding challenge](https://github.com/dgharsallah/leetcode-solutions/tree/master/30-days%20LeetCoding%20challenge)

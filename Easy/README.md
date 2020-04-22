@@ -29,3 +29,4 @@
 - [Set mismatch](https://leetcode.com/problems/set-mismatch/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/Set%20mismatch%20-%20Easy.py)
 - [Invert binary tree](https://leetcode.com/problems/invert-binary-tree/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/Invert%20binary%20tree%20-%20Easy.py)
 - [Majority element](https://leetcode.com/problems/majority-element/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/Majority%20element%20-%20Easy.py)
+- [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/Merge%20two%20lists%20-%20Easy.py)

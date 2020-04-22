@@ -42,3 +42,4 @@
 - [Count complete tree nodes](https://leetcode.com/problems/count-complete-tree-nodes/)
 : Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Count%20complete%20tree%20nodes%20-%20Medium.py)
 - [3Sum](https://leetcode.com/problems/3sum/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/3Sum%20-%20Medium.py)
+- [Search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Search%20in%20rotated%20sorted%20array%20-%20Medium.py)

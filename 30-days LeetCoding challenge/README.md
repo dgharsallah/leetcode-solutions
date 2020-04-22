@@ -16,3 +16,4 @@
 - Day 16: [Valid parentheses string](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2016%20-%20Valid%20parentheses%20string.py)
 - Day 17: [Number of islands](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2017%20-%20Number%20of%20islands.py)
 - Day 18: [Minimum path sum](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2018%20-%20Minimum%20path%20sum.py)
+- Day 19: [Search in rotated sorted array](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2019%20-%20Search%20in%20rotated%20sorted%20array.py)

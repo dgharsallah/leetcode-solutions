@@ -17,3 +17,5 @@
 - Day 17: [Number of islands](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2017%20-%20Number%20of%20islands.py)
 - Day 18: [Minimum path sum](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2018%20-%20Minimum%20path%20sum.py)
 - Day 19: [Search in rotated sorted array](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2019%20-%20Search%20in%20rotated%20sorted%20array.py)
+- Day 20: [Construct BST from preorder traversal](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2020%20-%20Construct%20BST%20from%20preorder%20traversal.py)
+- Day 21: [Left most column with one](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2021%20-%20Left%20most%20column%20with%20one.py)

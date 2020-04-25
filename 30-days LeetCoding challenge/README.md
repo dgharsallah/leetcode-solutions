@@ -19,3 +19,4 @@
 - Day 19: [Search in rotated sorted array](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2019%20-%20Search%20in%20rotated%20sorted%20array.py)
 - Day 20: [Construct BST from preorder traversal](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2020%20-%20Construct%20BST%20from%20preorder%20traversal.py)
 - Day 21: [Left most column with one](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2021%20-%20Left%20most%20column%20with%20one.py)
+- Day 22: [Subarray sum equals k](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2022%20-%20Subarray%20sum%20equal%20k.py)

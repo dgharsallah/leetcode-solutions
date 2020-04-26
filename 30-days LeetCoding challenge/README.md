@@ -21,3 +21,4 @@
 - Day 21: [Left most column with one](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2021%20-%20Left%20most%20column%20with%20one.py)
 - Day 22: [Subarray sum equals k](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2022%20-%20Subarray%20sum%20equal%20k.py)
 - Day 25: [Jump game](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2025%20-%20Jump%20game.py)
+- Day 26: [Longest common subsequence](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2026%20-%20Longest%20common%20subsequence.py)

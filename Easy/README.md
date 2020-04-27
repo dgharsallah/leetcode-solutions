@@ -30,3 +30,4 @@
 - [Invert binary tree](https://leetcode.com/problems/invert-binary-tree/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/Invert%20binary%20tree%20-%20Easy.py)
 - [Majority element](https://leetcode.com/problems/majority-element/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/Majority%20element%20-%20Easy.py)
 - [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/Merge%20two%20lists%20-%20Easy.py)
+- [Find all disappeared numbers in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/): Solution in [Python](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/Find%20all%20disappeared%20numbers%20in%20an%20array%20-%20Medium.py)

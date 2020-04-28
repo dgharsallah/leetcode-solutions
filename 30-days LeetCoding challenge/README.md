@@ -21,6 +21,7 @@
 - Day 21: [Left most column with one](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2021%20-%20Left%20most%20column%20with%20one.py)
 - Day 22: [Subarray sum equals k](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2022%20-%20Subarray%20sum%20equal%20k.py)
 - Day 23: [Bitwise AND of numbers range](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2023%20-%20Bitwise%20AND%20of%20numbers%20range.py)
+- Day 24: [LRU Cache](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2024%20-%20LRU%20cache.py)
 - Day 25: [Jump game](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2025%20-%20Jump%20game.py)
 - Day 26: [Longest common subsequence](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2026%20-%20Longest%20common%20subsequence.py)
 - Day 27: [Maximal square](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2027%20-%20Maximal%20square.py)

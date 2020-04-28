@@ -47,4 +47,4 @@
 - [Jump game](https://leetcode.com/problems/jump-game/): Solution in [Python](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Jump%20game%20-%20Medium.py)
 - [Longest common subsequence](https://leetcode.com/problems/longest-common-subsequence/): Solution in [Python](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Longest%20common%20subsequence%20-%20Medium.py)
 - [Bitwise AND of numbers range](https://leetcode.com/problems/bitwise-and-of-numbers-range/): Solution in [Python](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Bitwise%20AND%20of%20numbers%20range%20-%20Medium.py)
-- [Maximal square](https://leetcode.com/problems/maximal-square/): Solution [here](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Maximal%20square%20-%20Medium.py)
+- [Maximal square](https://leetcode.com/problems/maximal-square/): Solution in [Python](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Maximal%20square%20-%20Medium.py)

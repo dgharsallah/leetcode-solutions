@@ -27,3 +27,4 @@
 - Day 27: [Maximal square](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2027%20-%20Maximal%20square.py)
 - Day 28: [First unique number](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2028%20-%20First%20unique%20number.py)
 - Day 29: [Binary Tree maximum path sum](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2029%20-%20Binary%20tree%20maximum%20path%20sum.py)
+- Day 30: [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2030%20-%20Check%20If%20a%20String%20Is%20a%20Valid%20Sequence%20from%20Root%20to%20Leaves%20Path%20in%20a%20Binary%20Tree.py)

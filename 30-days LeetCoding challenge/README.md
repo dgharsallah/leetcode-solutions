@@ -25,3 +25,4 @@
 - Day 25: [Jump game](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2025%20-%20Jump%20game.py)
 - Day 26: [Longest common subsequence](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2026%20-%20Longest%20common%20subsequence.py)
 - Day 27: [Maximal square](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2027%20-%20Maximal%20square.py)
+- Day 28: [First unique number](https://github.com/dgharsallah/leetcode-solutions/blob/master/30-days%20LeetCoding%20challenge/Day%2028%20-%20First%20unique%20number.py)

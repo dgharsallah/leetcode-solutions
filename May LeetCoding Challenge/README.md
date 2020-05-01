@@ -1,0 +1,1 @@
+- Day 1: [First bad version](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%201%20-%20First%20bad%20version.py)

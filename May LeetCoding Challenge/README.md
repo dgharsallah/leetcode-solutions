@@ -1,1 +1,2 @@
 - Day 1: [First bad version](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%201%20-%20First%20bad%20version.py)
+- Day 2: [Jewels and stones](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%202%20-%20Jewels%20and%20stones.py)

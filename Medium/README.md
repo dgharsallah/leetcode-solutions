@@ -48,3 +48,4 @@
 - [Bitwise AND of numbers range](https://leetcode.com/problems/bitwise-and-of-numbers-range/): Solution in [Python](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Bitwise%20AND%20of%20numbers%20range%20-%20Medium.py)
 - [Maximal square](https://leetcode.com/problems/maximal-square/): Solution in [Python](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Maximal%20square%20-%20Medium.py)
 - [LRU Cache](https://leetcode.com/problems/lru-cache/): Solution in [Python](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/LRU%20cache%20-%20Medium.py)
+- [Word ladder](https://leetcode.com/problems/word-ladder/): Solution in [Python](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Word%20Ladder%20-%20Medium.py)

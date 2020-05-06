@@ -3,3 +3,4 @@
 - Day 3: [Can construct](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%203%20-%20Can%20construct.py)
 - Day 4: [Number complement](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%204%20-%20Number%20complement.py)
 - Day 5: [First unique character in a string](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%205%20-%20First%20unique%20character%20in%20a%20string.py)
+- Day 6: [Majority element](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%206%20-%20Majority%20element.py)

@@ -6,3 +6,4 @@
 - Day 6: [Majority element](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%206%20-%20Majority%20element.py)
 - Day 7: [Cousins in binary tree](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%207%20-%20Cousins%20in%20binary%20tree.py)
 - Day 8: [Check straight lines](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%208%20-%20Check%20straight%20lines.py)
+- Day 9: [Valid a perfect square](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%209%20-%20Valid%20a%20perfect%20square.py)

@@ -9,3 +9,4 @@
 - Day 9: [Valid a perfect square](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%209%20-%20Valid%20a%20perfect%20square.py)
 - Day 10: [Find the town judge](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2010%20-%20Find%20the%20town%20judge.py)
 - Day 11: [Flood fill](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2011%20-%20Flood%20fill.py)
+- Day 12: [Single element in a sorted array](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2012%20-%20Single%20element%20in%20a%20sorted%20array.py)

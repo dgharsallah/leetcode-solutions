@@ -10,3 +10,4 @@
 - Day 10: [Find the town judge](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2010%20-%20Find%20the%20town%20judge.py)
 - Day 11: [Flood fill](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2011%20-%20Flood%20fill.py)
 - Day 12: [Single element in a sorted array](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2012%20-%20Single%20element%20in%20a%20sorted%20array.py)
+- Day 13: [Remove k digits](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2013%20-%20Remove%20k%20digits.py)

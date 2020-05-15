@@ -11,4 +11,4 @@
 - Day 11: [Flood fill](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2011%20-%20Flood%20fill.py)
 - Day 12: [Single element in a sorted array](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2012%20-%20Single%20element%20in%20a%20sorted%20array.py)
 - Day 13: [Remove k digits](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2013%20-%20Remove%20k%20digits.py)
-- Day 15: [Max subarray sum circular](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2015%20-%20Max%20subarray%20sum%20circular.py)
+- Day 15: [Max sum circular subarray](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2015%20-%20Max%20sum%20circular%20subarray.py)

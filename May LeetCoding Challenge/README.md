@@ -12,3 +12,4 @@
 - Day 12: [Single element in a sorted array](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2012%20-%20Single%20element%20in%20a%20sorted%20array.py)
 - Day 13: [Remove k digits](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2013%20-%20Remove%20k%20digits.py)
 - Day 15: [Max sum circular subarray](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2015%20-%20Max%20sum%20circular%20subarray.py)
+- Day 16: [Odd even linked list](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2016%20-%20Odd%20even%20linked%20list.py)

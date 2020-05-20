@@ -50,3 +50,4 @@
 - [LRU Cache](https://leetcode.com/problems/lru-cache/): Solution in [Python](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/LRU%20cache%20-%20Medium.py)
 - [Word ladder](https://leetcode.com/problems/word-ladder/): Solution in [Python](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Word%20Ladder%20-%20Medium.py)
 - [Predict the winner](https://leetcode.com/problems/predict-the-winner/): Solution in [Python](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Predict%20the%20winner%20-%20Medium.py)
+- [Is Graph bipartite?](https://leetcode.com/problems/is-graph-bipartite/): Solution in [Python](https://github.com/dgharsallah/leetcode-solutions/blob/master/Medium/Is%20Graph%20bipartite%20-%20Medium.py)

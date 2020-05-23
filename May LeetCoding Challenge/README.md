@@ -15,3 +15,4 @@
 - Day 16: [Odd even linked list](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2016%20-%20Odd%20even%20linked%20list.py)
 - Day 17: [Find all anagrams in a string](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2017%20-%20Find%20all%20anagrams%20in%20a%20string.py)
 - Day 18: [Permutation in a string](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2018%20-%20Permutation%20in%20string.py)
+- Day 19: [Online stock span](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2019%20-%20Online%20stock%20span.py)

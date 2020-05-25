@@ -17,3 +17,4 @@
 - Day 18: [Permutation in a string](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2018%20-%20Permutation%20in%20string.py)
 - Day 19: [Online stock span](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2019%20-%20Online%20stock%20span.py)
 - Day 20: [Kth smallest element in a BST](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2020%20-%20Kth%20smallest%20element%20in%20a%20BST.py)
+- Day 21: [Count square submatrices with all ones](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2021%20-%20Count%20square%20submatrices%20with%20all%20ones.py)

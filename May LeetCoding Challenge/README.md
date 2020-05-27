@@ -19,5 +19,6 @@
 - Day 20: [Kth smallest element in a BST](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2020%20-%20Kth%20smallest%20element%20in%20a%20BST.py)
 - Day 21: [Count square submatrices with all ones](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2021%20-%20Count%20square%20submatrices%20with%20all%20ones.py)
 - Day 22: [Sort characters by frequency](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2022%20-%20Sort%20characters%20by%20frequency.py)
+- Day 24: [Construct BST from preorder traversal](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2024%20-%20Construct%20BST%20from%20preorder%20traversal.py)
 - Day 25: [Uncrossed lines](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2025%20-%20Uncrossed%20lines.py)
 - Day 26: [Contiguous array](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2026%20-%20Contiguous%20array.py)

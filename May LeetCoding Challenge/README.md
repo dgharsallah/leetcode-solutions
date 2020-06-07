@@ -23,3 +23,4 @@
 - Day 25: [Uncrossed lines](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2025%20-%20Uncrossed%20lines.py)
 - Day 26: [Contiguous array](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2026%20-%20Contiguous%20array.py)
 - Day 28: [Counting bits](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2028%20-%20Counting%20bits.py)
+- Day 30: [K closest points to origin](https://github.com/dgharsallah/leetcode-solutions/blob/master/May%20LeetCoding%20Challenge/Day%2030%20-%20K%20closest%20points%20to%20origin.py)

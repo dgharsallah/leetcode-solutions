@@ -1,3 +1,4 @@
 - Day 1: [Invert Binary Tree](https://github.com/dgharsallah/leetcode-solutions/blob/master/June%20leetcoding%20challenge/Day%201%20-%20Invert%20binary%20tree.py)
 - Day 4: [Reverse String](https://github.com/dgharsallah/leetcode-solutions/blob/master/June%20leetcoding%20challenge/Day%204%20-%20Reverse%20string.py)
+- Day 8: [Power of 2](https://github.com/dgharsallah/leetcode-solutions/blob/master/June%20leetcoding%20challenge/Day%208%20-%20Power%20of%20two.py)
 - Day 9: [Is subsequence](https://github.com/dgharsallah/leetcode-solutions/blob/master/June%20leetcoding%20challenge/Day%209%20-%20Is%20subsequence.py)

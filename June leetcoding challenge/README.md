@@ -2,6 +2,7 @@
 - Day 2: [Delete node in a linked list](https://github.com/dgharsallah/leetcode-solutions/blob/master/June%20leetcoding%20challenge/Day%202%20-%20Delete%20node%20in%20a%20linked%20list.py)
 - Day 4: [Reverse String](https://github.com/dgharsallah/leetcode-solutions/blob/master/June%20leetcoding%20challenge/Day%204%20-%20Reverse%20string.py)
 - Day 6: [Queue reconstruction by height](https://github.com/dgharsallah/leetcode-solutions/blob/master/June%20leetcoding%20challenge/Day%206%20-%20Queue%20reconstruction%20by%20height.cpp)
+- Day 7: [Coin change 2](https://github.com/dgharsallah/leetcode-solutions/blob/master/June%20leetcoding%20challenge/Day%207%20-%20Coin%20change%202.py)
 - Day 8: [Power of 2](https://github.com/dgharsallah/leetcode-solutions/blob/master/June%20leetcoding%20challenge/Day%208%20-%20Power%20of%20two.py)
 - Day 9: [Is subsequence](https://github.com/dgharsallah/leetcode-solutions/blob/master/June%20leetcoding%20challenge/Day%209%20-%20Is%20subsequence.py)
 - Day 10: [Search insert position](https://github.com/dgharsallah/leetcode-solutions/blob/master/June%20leetcoding%20challenge/Day%2010%20-%20Search%20insert%20position.py)

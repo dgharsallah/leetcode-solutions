@@ -4,4 +4,5 @@
 - Day 6: [Queue reconstruction by height](https://github.com/dgharsallah/leetcode-solutions/blob/master/June%20leetcoding%20challenge/Day%206%20-%20Queue%20reconstruction%20by%20height.cpp)
 - Day 8: [Power of 2](https://github.com/dgharsallah/leetcode-solutions/blob/master/June%20leetcoding%20challenge/Day%208%20-%20Power%20of%20two.py)
 - Day 9: [Is subsequence](https://github.com/dgharsallah/leetcode-solutions/blob/master/June%20leetcoding%20challenge/Day%209%20-%20Is%20subsequence.py)
+- Day 10: [Search insert position](https://github.com/dgharsallah/leetcode-solutions/blob/master/June%20leetcoding%20challenge/Day%2010%20-%20Search%20insert%20position.py)
 - Day 15: [Search in a BST](https://github.com/dgharsallah/leetcode-solutions/blob/master/June%20leetcoding%20challenge/Day%2015%20-%20Search%20in%20a%20BST.py)

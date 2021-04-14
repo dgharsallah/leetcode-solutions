@@ -33,3 +33,4 @@
 - [Find all disappeared numbers in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/): Solution in [Python](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/Find%20all%20disappeared%20numbers%20in%20an%20array%20-%20Medium.py)
 - [Complement of base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/): Solution in [Python](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/Complement%20of%20base%2010%20integer%20-%20Easy.py)
 - [Climbing stairs](https://leetcode.com/problems/climbing-stairs/): Solution in [Python](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/Climbing%20stairs%20-%20Easy.py)
+- [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/): Solution in [Python](https://github.com/dgharsallah/leetcode-solutions/blob/master/Easy/Fibonacci%20number.py)
